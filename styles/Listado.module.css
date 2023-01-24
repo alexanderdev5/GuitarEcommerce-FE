@@ -1,0 +1,29 @@
+.listado{
+    display: grid;
+    gap:4rem;
+    animation-name: mostrarImagen;
+        animation-duration: 3s;
+}
+
+@keyframes mostrarImagen {
+    0% {
+        opacity: 0;
+    }
+  
+    100% {
+        opacity: 1;
+    }
+  }
+
+@media(min-width : 768px){
+    .listado {
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+}
+@media(min-width : 992px){
+    .listado {
+        grid-template-columns: repeat(3, 1fr);
+        
+    }
+}
