@@ -10,6 +10,8 @@ npm run dev
 yarn dev
 ```
 
+## project screenshots
+
 ![Inicio](https://user-images.githubusercontent.com/79029068/214211579-49b17a20-f1a2-4c44-a92e-1d1ca8bde62e.png)
 
 
