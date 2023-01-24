@@ -10,9 +10,23 @@ npm run dev
 yarn dev
 ```
 
-### project screenshots
+## Project screenshots
 
+###Inicio
 ![Inicio](https://user-images.githubusercontent.com/79029068/214211579-49b17a20-f1a2-4c44-a92e-1d1ca8bde62e.png)
+###Nosotros
+![Nosotros](https://user-images.githubusercontent.com/79029068/214212686-7b9bc5e5-13e7-46b1-b57c-cf4fed39d40a.png)
+###Blog
+![blog](https://user-images.githubusercontent.com/79029068/214212753-fe10f5de-e83c-49d8-ab7c-3a278d4494c2.png)
+###Tienda
+![tienda](https://user-images.githubusercontent.com/79029068/214212846-96edcbb9-aa09-45e9-a55a-10c8bc62b893.png)
+
+![tienda_1 2](https://user-images.githubusercontent.com/79029068/214212898-9e0c5e5b-05c0-4632-bdc4-e73f9f3a30c5.png)
+
+![tienda_1 3](https://user-images.githubusercontent.com/79029068/214212926-1be32d79-d658-41b3-8c17-f0febf7cae47.png)
+
+###Carrito
+![Carrito](https://user-images.githubusercontent.com/79029068/214212973-d3d7eac5-d2ab-4027-9bfa-41c6ca8556e0.png)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
